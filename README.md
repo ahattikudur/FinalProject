@@ -1,1 +1,2 @@
 # FinalProject
+In my final project, I will add a results page to the GeoQuiz App. The page will use Intents to launch a new activity, involving RecyclerView, widgets with restraints, image icons, and fragments. The user will be able to see each question, their answer, the correct answer, and their total score. The goal of this adjustment is to make GeoQuiz more intuitive and make the score-keeping clearer. 
